@@ -1,5 +1,5 @@
 # ClearScriptBench
-Benchmark some ways to pass objects from .NET to Javascript in ClearScript
+Benchmark some ways to pass objects from .NET to Javascript in [ClearScript](https://microsoft.github.io/ClearScript/Examples/Examples.html).
 
 # Results
 
